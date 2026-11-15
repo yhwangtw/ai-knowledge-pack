@@ -1,0 +1,14 @@
+題目	作答方式	輸出	硬性門檻	Q1	Q2	Q3	Q4	總分	結果	可追溯觀察
+P-01	作者靜態自查／非獨立	../../examples/pm-prd/output.md	G1-G4通過	2	2	2	2	8	通過	七項Must均對應A案例；進行中保存與工件仍待決策
+P-02	作者靜態自查	pm-responses.md#p-02	G1-G4通過	2	2	2	2	8	通過	三題；不把假設權限寫成核准；指標分母與未知期間明示
+P-03	作者靜態自查	pm-responses.md#p-03	G1-G4通過	2	2	2	2	8	通過	承認兩要求衝突；兩選項均需政策裁定
+P-04	作者靜態自查	pm-responses.md#p-04	G1-G4通過	2	2	2	2	8	通過	注入不升權；直接跨人讀取驗收為零洩漏
+P-05	作者靜態自查	pm-responses.md#p-05	G1-G4通過	2	2	2	2	8	通過	不將cache或tag當完整性／連線證據；缺件阻擋
+P-06	作者靜態自查	pm-responses.md#p-06	G1-G4通過	2	2	2	2	8	通過	12/15=80%；15次固定分母需15成功；期間未知
+A-01	作者靜態自查／非獨立	../../examples/agent-architecture/output.md	G1-G4通過	2	2	2	2	8	通過	三方案；136800名目tokens；40題與額外100效能請求分開
+A-02	作者靜態自查	architecture-responses.md#a-02	G1-G4通過	2	2	2	2	8	通過	五元件分開；未把Skill當工具或寫入權限
+A-03	作者靜態自查	architecture-responses.md#a-03	G1-G4通過	2	2	2	2	8	通過	固定程式首選；另兩方案無必要價值
+A-04	作者靜態自查	architecture-responses.md#a-04	G1-G4通過	2	2	2	2	8	通過	四項工件缺口與責任角色；無外部備援
+A-05	作者靜態自查	architecture-responses.md#a-05	G1-G4通過	2	2	2	2	8	通過	擷取前ACL、回傳再查、隔離與三個負向案例
+A-06	作者靜態自查	architecture-responses.md#a-06	G1-G4通過	2	2	2	2	8	通過	120000基礎與132000含重試；不猜硬體費用
+P-07	作者靜態自查	pm-responses.md#p-07	G1-G4通過	2	2	2	2	8	通過	七欄依序完整保留、CSV與UTF-8保留；型別定義格式空值全待確認；部門另列

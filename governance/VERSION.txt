@@ -1,0 +1,11 @@
+package: enterprise-ai-offline-pack
+version: 0.1.0
+release_date: 2026-11-15
+language: zh-Hant
+delivery: offline-text-only-zip
+skills: write-pm-prd@0.1.0, assess-agent-architecture@0.1.0
+minimum_capability: human-or-agent-reading-UTF-8-text
+automatic_execution: none
+external_calls: none
+company_private_data: none
+status: initial-internal-evaluation

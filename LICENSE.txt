@@ -1,0 +1,26 @@
+本包授權範圍說明（非條款修改）
+本次請求產製之原創編排、工作流程、模板與測試內容，在可合法授權的權利範圍內以下列 MIT 條款提供。AI 生成內容不保證必然具有著作權。
+knowledge/04-skill-format.md 的第三方格式改寫說明適用 CC BY 4.0；licenses 內的授權文本及第三方產品／機構名稱不因本文件改變權利。詳見 governance/THIRD-PARTY-NOTICES.md。
+本包授權不包括未隨包提供的模型、套件、映像、公司資料或憑證。
+
+MIT License
+
+Copyright (c) 2026 Contributors to this package, to the extent copyright applies.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

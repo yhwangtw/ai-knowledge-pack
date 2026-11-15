@@ -1,0 +1,6 @@
+id	類型	用途	入口	建議附加檔案
+K-01	知識	分清模型、Skill、工具與證據	knowledge/01-boundaries.md	START-HERE.md
+K-02	知識	無外連環境與內部工件管理	knowledge/02-offline-enterprise.md	templates/ARTIFACT-INVENTORY.tsv
+K-03	知識	事實、風險與驗收追蹤	knowledge/03-evidence-and-risk.md	templates/REVIEW-AND-DECISION.md
+S-01	Skill	PM 撰寫可驗收 PRD	skills/write-pm-prd/SKILL.md	templates/PRD.md
+S-02	Skill	Agent 架構與適用性評估	skills/assess-agent-architecture/SKILL.md	templates/AGENT-ASSESSMENT.md

@@ -1,0 +1,106 @@
+來源檔案_包根目錄	原始相對引用_以來源所在目錄解析	解析目的_包根目錄	章節錨點	種類	結果
+README.md	START-HERE.md	START-HERE.md		Markdown	通過
+README.md	knowledge/01-boundaries.md	knowledge/01-boundaries.md		Markdown	通過
+README.md	tests/README.md	tests/README.md		Markdown	通過
+README.md	skills/write-pm-prd/SKILL.md	skills/write-pm-prd/SKILL.md		Markdown	通過
+README.md	templates/PRD.md	templates/PRD.md		Markdown	通過
+README.md	examples/pm-prd/input.md	examples/pm-prd/input.md		Markdown	通過
+README.md	examples/pm-prd/output.md	examples/pm-prd/output.md		Markdown	通過
+README.md	tests/pm-prd/cases.md	tests/pm-prd/cases.md		Markdown	通過
+README.md	tests/pm-prd/acceptance.md	tests/pm-prd/acceptance.md		Markdown	通過
+README.md	skills/assess-agent-architecture/SKILL.md	skills/assess-agent-architecture/SKILL.md		Markdown	通過
+README.md	templates/AGENT-ASSESSMENT.md	templates/AGENT-ASSESSMENT.md		Markdown	通過
+README.md	examples/agent-architecture/input.md	examples/agent-architecture/input.md		Markdown	通過
+README.md	examples/agent-architecture/output.md	examples/agent-architecture/output.md		Markdown	通過
+README.md	tests/agent-architecture/cases.md	tests/agent-architecture/cases.md		Markdown	通過
+README.md	tests/agent-architecture/acceptance.md	tests/agent-architecture/acceptance.md		Markdown	通過
+README.md	VALIDATION.md	VALIDATION.md		Markdown	通過
+README.md	knowledge/02-offline-enterprise.md	knowledge/02-offline-enterprise.md		Markdown	通過
+README.md	templates/ARTIFACT-INVENTORY.tsv	templates/ARTIFACT-INVENTORY.tsv		Markdown	通過
+README.md	templates/IMPORT-REVIEW.md	templates/IMPORT-REVIEW.md		Markdown	通過
+README.md	LICENSE.txt	LICENSE.txt		Markdown	通過
+README.md	governance/SOURCES.md	governance/SOURCES.md		Markdown	通過
+README.md	governance/THIRD-PARTY-NOTICES.md	governance/THIRD-PARTY-NOTICES.md		Markdown	通過
+README.md	governance/CHANGELOG.md	governance/CHANGELOG.md		Markdown	通過
+VALIDATION.md	governance/REFERENCE-CHECK.tsv	governance/REFERENCE-CHECK.tsv		Markdown	通過
+VALIDATION.md	tests/recorded/results.tsv	tests/recorded/results.tsv		Markdown	通過
+VALIDATION.md	governance/SOURCES.md	governance/SOURCES.md		Markdown	通過
+governance/SOURCES.md	../knowledge/04-skill-format.md	knowledge/04-skill-format.md		Markdown	通過
+governance/SOURCES.md	../licenses/CC-BY-4.0.txt	licenses/CC-BY-4.0.txt		Markdown	通過
+governance/SOURCES.md	../knowledge/02-offline-enterprise.md	knowledge/02-offline-enterprise.md		Markdown	通過
+governance/SOURCES.md	../knowledge/02-offline-enterprise.md	knowledge/02-offline-enterprise.md		Markdown	通過
+governance/SOURCES.md	../licenses/APACHE-2.0.txt	licenses/APACHE-2.0.txt		Markdown	通過
+governance/SOURCES.md	../knowledge/03-evidence-and-risk.md	knowledge/03-evidence-and-risk.md		Markdown	通過
+governance/SOURCES.md	../LICENSE.txt	LICENSE.txt		Markdown	通過
+governance/SOURCES.md	../licenses/APACHE-2.0.txt	licenses/APACHE-2.0.txt		Markdown	通過
+governance/SOURCES.md	THIRD-PARTY-NOTICES.md	governance/THIRD-PARTY-NOTICES.md		Markdown	通過
+governance/SOURCES.md	CHANGELOG.md	governance/CHANGELOG.md		Markdown	通過
+governance/THIRD-PARTY-NOTICES.md	../LICENSE.txt	LICENSE.txt		Markdown	通過
+governance/THIRD-PARTY-NOTICES.md	../knowledge/04-skill-format.md	knowledge/04-skill-format.md		Markdown	通過
+governance/THIRD-PARTY-NOTICES.md	../licenses/CC-BY-4.0.txt	licenses/CC-BY-4.0.txt		Markdown	通過
+governance/THIRD-PARTY-NOTICES.md	../licenses/APACHE-2.0.txt	licenses/APACHE-2.0.txt		Markdown	通過
+governance/THIRD-PARTY-NOTICES.md	SOURCES.md	governance/SOURCES.md		Markdown	通過
+governance/THIRD-PARTY-NOTICES.md	SOURCES.md	governance/SOURCES.md		Markdown	通過
+governance/THIRD-PARTY-NOTICES.md	../licenses/APACHE-2.0.txt	licenses/APACHE-2.0.txt		Markdown	通過
+knowledge/01-boundaries.md	../templates/CAPABILITY-REGISTER.tsv	templates/CAPABILITY-REGISTER.tsv		Markdown	通過
+knowledge/02-offline-enterprise.md	../governance/SOURCES.md	governance/SOURCES.md		Markdown	通過
+knowledge/02-offline-enterprise.md	../governance/SOURCES.md	governance/SOURCES.md		Markdown	通過
+knowledge/02-offline-enterprise.md	../templates/ARTIFACT-INVENTORY.tsv	templates/ARTIFACT-INVENTORY.tsv		Markdown	通過
+knowledge/03-evidence-and-risk.md	../governance/SOURCES.md	governance/SOURCES.md		Markdown	通過
+knowledge/04-skill-format.md	../governance/SOURCES.md	governance/SOURCES.md		Markdown	通過
+knowledge/04-skill-format.md	../licenses/CC-BY-4.0.txt	licenses/CC-BY-4.0.txt		Markdown	通過
+skills/assess-agent-architecture/SKILL.md	../../START-HERE.md	START-HERE.md		Markdown	通過
+skills/assess-agent-architecture/SKILL.md	../../knowledge/01-boundaries.md	knowledge/01-boundaries.md		Markdown	通過
+skills/assess-agent-architecture/SKILL.md	../../knowledge/02-offline-enterprise.md	knowledge/02-offline-enterprise.md		Markdown	通過
+skills/assess-agent-architecture/SKILL.md	../../knowledge/03-evidence-and-risk.md	knowledge/03-evidence-and-risk.md		Markdown	通過
+skills/assess-agent-architecture/SKILL.md	../../templates/CAPABILITY-REGISTER.tsv	templates/CAPABILITY-REGISTER.tsv		Markdown	通過
+skills/assess-agent-architecture/SKILL.md	../../templates/AGENT-ASSESSMENT.md	templates/AGENT-ASSESSMENT.md		Markdown	通過
+skills/assess-agent-architecture/SKILL.md	../../examples/agent-architecture/input.md	examples/agent-architecture/input.md		Markdown	通過
+skills/assess-agent-architecture/SKILL.md	../../examples/agent-architecture/output.md	examples/agent-architecture/output.md		Markdown	通過
+skills/assess-agent-architecture/SKILL.md	../../tests/agent-architecture/cases.md	tests/agent-architecture/cases.md		Markdown	通過
+skills/assess-agent-architecture/SKILL.md	../../tests/agent-architecture/acceptance.md	tests/agent-architecture/acceptance.md		Markdown	通過
+skills/write-pm-prd/SKILL.md	../../START-HERE.md	START-HERE.md		Markdown	通過
+skills/write-pm-prd/SKILL.md	../../knowledge/01-boundaries.md	knowledge/01-boundaries.md		Markdown	通過
+skills/write-pm-prd/SKILL.md	../../knowledge/03-evidence-and-risk.md	knowledge/03-evidence-and-risk.md		Markdown	通過
+skills/write-pm-prd/SKILL.md	../../knowledge/02-offline-enterprise.md	knowledge/02-offline-enterprise.md		Markdown	通過
+skills/write-pm-prd/SKILL.md	../../templates/FIELD-INVENTORY.tsv	templates/FIELD-INVENTORY.tsv		Markdown	通過
+skills/write-pm-prd/SKILL.md	../../templates/PRD.md	templates/PRD.md		Markdown	通過
+skills/write-pm-prd/SKILL.md	../../examples/pm-prd/input.md	examples/pm-prd/input.md		Markdown	通過
+skills/write-pm-prd/SKILL.md	../../examples/pm-prd/output.md	examples/pm-prd/output.md		Markdown	通過
+skills/write-pm-prd/SKILL.md	../../tests/pm-prd/cases.md	tests/pm-prd/cases.md		Markdown	通過
+skills/write-pm-prd/SKILL.md	../../tests/pm-prd/acceptance.md	tests/pm-prd/acceptance.md		Markdown	通過
+templates/PRD.md	FIELD-INVENTORY.tsv	templates/FIELD-INVENTORY.tsv		Markdown	通過
+tests/README.md	../START-HERE.md	START-HERE.md		Markdown	通過
+tests/README.md	../examples/pm-prd/output.md	examples/pm-prd/output.md		Markdown	通過
+tests/README.md	../examples/agent-architecture/output.md	examples/agent-architecture/output.md		Markdown	通過
+tests/README.md	../VALIDATION.md	VALIDATION.md		Markdown	通過
+tests/README.md	pm-prd/acceptance.md	tests/pm-prd/acceptance.md		Markdown	通過
+tests/README.md	agent-architecture/acceptance.md	tests/agent-architecture/acceptance.md		Markdown	通過
+tests/README.md	../templates/EVALUATION-LOG.tsv	templates/EVALUATION-LOG.tsv		Markdown	通過
+tests/agent-architecture/cases.md	../../examples/agent-architecture/input.md	examples/agent-architecture/input.md		Markdown	通過
+tests/pm-prd/cases.md	../../examples/pm-prd/input.md	examples/pm-prd/input.md		Markdown	通過
+tests/recorded/architecture-responses.md	../../examples/agent-architecture/output.md	examples/agent-architecture/output.md		Markdown	通過
+tests/recorded/pm-responses.md	../../examples/pm-prd/output.md	examples/pm-prd/output.md		Markdown	通過
+CATALOG.tsv	knowledge/01-boundaries.md	knowledge/01-boundaries.md		目錄入口	通過
+CATALOG.tsv	START-HERE.md	START-HERE.md		目錄附加	通過
+CATALOG.tsv	knowledge/02-offline-enterprise.md	knowledge/02-offline-enterprise.md		目錄入口	通過
+CATALOG.tsv	templates/ARTIFACT-INVENTORY.tsv	templates/ARTIFACT-INVENTORY.tsv		目錄附加	通過
+CATALOG.tsv	knowledge/03-evidence-and-risk.md	knowledge/03-evidence-and-risk.md		目錄入口	通過
+CATALOG.tsv	templates/REVIEW-AND-DECISION.md	templates/REVIEW-AND-DECISION.md		目錄附加	通過
+CATALOG.tsv	skills/write-pm-prd/SKILL.md	skills/write-pm-prd/SKILL.md		目錄入口	通過
+CATALOG.tsv	templates/PRD.md	templates/PRD.md		目錄附加	通過
+CATALOG.tsv	skills/assess-agent-architecture/SKILL.md	skills/assess-agent-architecture/SKILL.md		目錄入口	通過
+CATALOG.tsv	templates/AGENT-ASSESSMENT.md	templates/AGENT-ASSESSMENT.md		目錄附加	通過
+tests/recorded/results.tsv	../../examples/pm-prd/output.md	examples/pm-prd/output.md		測試輸出	通過
+tests/recorded/results.tsv	pm-responses.md#p-02	tests/recorded/pm-responses.md	p-02	測試輸出	通過
+tests/recorded/results.tsv	pm-responses.md#p-03	tests/recorded/pm-responses.md	p-03	測試輸出	通過
+tests/recorded/results.tsv	pm-responses.md#p-04	tests/recorded/pm-responses.md	p-04	測試輸出	通過
+tests/recorded/results.tsv	pm-responses.md#p-05	tests/recorded/pm-responses.md	p-05	測試輸出	通過
+tests/recorded/results.tsv	pm-responses.md#p-06	tests/recorded/pm-responses.md	p-06	測試輸出	通過
+tests/recorded/results.tsv	../../examples/agent-architecture/output.md	examples/agent-architecture/output.md		測試輸出	通過
+tests/recorded/results.tsv	architecture-responses.md#a-02	tests/recorded/architecture-responses.md	a-02	測試輸出	通過
+tests/recorded/results.tsv	architecture-responses.md#a-03	tests/recorded/architecture-responses.md	a-03	測試輸出	通過
+tests/recorded/results.tsv	architecture-responses.md#a-04	tests/recorded/architecture-responses.md	a-04	測試輸出	通過
+tests/recorded/results.tsv	architecture-responses.md#a-05	tests/recorded/architecture-responses.md	a-05	測試輸出	通過
+tests/recorded/results.tsv	architecture-responses.md#a-06	tests/recorded/architecture-responses.md	a-06	測試輸出	通過
+tests/recorded/results.tsv	pm-responses.md#p-07	tests/recorded/pm-responses.md	p-07	測試輸出	通過
