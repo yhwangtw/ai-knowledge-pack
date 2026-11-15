@@ -69,6 +69,7 @@ skills/write-pm-prd/SKILL.md	../../examples/pm-prd/input.md	examples/pm-prd/inpu
 skills/write-pm-prd/SKILL.md	../../examples/pm-prd/output.md	examples/pm-prd/output.md		Markdown	通過
 skills/write-pm-prd/SKILL.md	../../tests/pm-prd/cases.md	tests/pm-prd/cases.md		Markdown	通過
 skills/write-pm-prd/SKILL.md	../../tests/pm-prd/acceptance.md	tests/pm-prd/acceptance.md		Markdown	通過
+templates/IMPORT-REVIEW.md	../FILELIST.tsv	FILELIST.tsv		Markdown	通過
 templates/PRD.md	FIELD-INVENTORY.tsv	templates/FIELD-INVENTORY.tsv		Markdown	通過
 tests/README.md	../START-HERE.md	START-HERE.md		Markdown	通過
 tests/README.md	../examples/pm-prd/output.md	examples/pm-prd/output.md		Markdown	通過
